@@ -1,0 +1,12 @@
+C:\Users\Croa\Desktop\Webscrapper\netcoreapp3.1\WebScrapper.exe
+C:\Users\Croa\Desktop\Webscrapper\netcoreapp3.1\WebScrapper.deps.json
+C:\Users\Croa\Desktop\Webscrapper\netcoreapp3.1\WebScrapper.runtimeconfig.json
+C:\Users\Croa\Desktop\Webscrapper\netcoreapp3.1\WebScrapper.runtimeconfig.dev.json
+C:\Users\Croa\Desktop\Webscrapper\netcoreapp3.1\WebScrapper.dll
+C:\Users\Croa\Desktop\Webscrapper\netcoreapp3.1\WebScrapper.pdb
+E:\VSProjects\WebScrapper\WebScrapper\obj\Release\netcoreapp3.1\WebScrapper.csprojAssemblyReference.cache
+E:\VSProjects\WebScrapper\WebScrapper\obj\Release\netcoreapp3.1\WebScrapper.AssemblyInfoInputs.cache
+E:\VSProjects\WebScrapper\WebScrapper\obj\Release\netcoreapp3.1\WebScrapper.AssemblyInfo.cs
+E:\VSProjects\WebScrapper\WebScrapper\obj\Release\netcoreapp3.1\WebScrapper.csproj.CopyComplete
+E:\VSProjects\WebScrapper\WebScrapper\obj\Release\netcoreapp3.1\WebScrapper.dll
+E:\VSProjects\WebScrapper\WebScrapper\obj\Release\netcoreapp3.1\WebScrapper.pdb
