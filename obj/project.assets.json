@@ -4547,11 +4547,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\VSProjects\\WebScrapper\\WebScrapper\\WebScrapper.csproj",
+      "projectUniqueName": "E:\\VSProjects\\WebScrapper\\NewsScrapper\\WebScrapper.csproj",
       "projectName": "WebScrapper",
-      "projectPath": "E:\\VSProjects\\WebScrapper\\WebScrapper\\WebScrapper.csproj",
+      "projectPath": "E:\\VSProjects\\WebScrapper\\NewsScrapper\\WebScrapper.csproj",
       "packagesPath": "C:\\Users\\Croa\\.nuget\\packages\\",
-      "outputPath": "E:\\VSProjects\\WebScrapper\\WebScrapper\\obj\\",
+      "outputPath": "E:\\VSProjects\\WebScrapper\\NewsScrapper\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Croa\\AppData\\Roaming\\NuGet\\NuGet.Config",
